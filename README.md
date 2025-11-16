@@ -9,25 +9,25 @@ A fully interactive SAT-solving environment built with **Python** and **Streamli
 
 ### 1️⃣ Input & Solver View  
 Shows CNF input, presets, solving output, statistics, trace, and truth tables.  
-![Input View](images/input_view.png)
+![Input View](images/input_view.jpg)
 
 ---
 
 ### 2️⃣ Random Instance Generator  
 Create random 3-SAT or k-CNF instances with configurable sliders.  
-![Generator View](images/generator_view.png)
+![Generator View](images/generator_view.jpg)
 
 ---
 
 ### 3️⃣ Heuristic Analysis  
 Compare heuristics such as MOMS, VSIDS, Random, and First.  
-![Analysis View](images/analysis_view.png)
+![Analysis View](images/analysis_view.jpg)
 
 ---
 
 ### 4️⃣ File I/O (DIMACS Import/Export)  
 Upload `.cnf` DIMACS files for parsing and solving.  
-![FileIO View](images/fileio_view.png)
+![FileIO View](images/fileio_view.jpg)
 
 ---
 
