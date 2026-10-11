@@ -1,0 +1,8 @@
+# Core dependencies
+streamlit
+pandas
+
+# Optional dependencies
+numpy
+plotly
+matplotlib
